@@ -18,11 +18,11 @@ jupyter-core==4.6.1
 Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
-matplotlib==3.1.2
+matplotlib>=3.3
 notebook==6.1.5
-numpy==1.16.4
-opencv-contrib-python==4.5.5.62  # Or the latest available version
-opencv-python==3.4.2.16
+numpy>=1.21.2,<=2.0.2
+opencv-contrib-python==4.5.5.64  # Or the latest available version
+opencv-python==4.5.5.64
 pandas==0.25.3
 pickleshare==0.7.5
 Pillow>=7.1.0
