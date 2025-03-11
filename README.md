@@ -107,3 +107,7 @@ Dual mode of communication is implemented. The spoken word is taken as input and
 ### Credits
 + [Bag of Visual Words (BOVW)](https://medium.com/@aybukeyalcinerr/bag-of-visual-words-bovw-db9500331b2f)
 + [Image Classification with Convolutional Neural Networks](https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8)
+
+### Contact us
+for any query and details contact me through mail: amitpal0728@gmail.com
+
