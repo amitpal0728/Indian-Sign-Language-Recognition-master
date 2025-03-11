@@ -21,7 +21,7 @@ Keras-Preprocessing==1.1.0
 matplotlib==3.1.2
 notebook==6.1.5
 numpy==1.16.4
-opencv-contrib-python==3.4.2.16
+opencv-contrib-python==4.5.5.62  # Or the latest available version
 opencv-python==3.4.2.16
 pandas==0.25.3
 pickleshare==0.7.5
