@@ -109,5 +109,5 @@ Dual mode of communication is implemented. The spoken word is taken as input and
 + [Image Classification with Convolutional Neural Networks](https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8)
 
 ### Contact us
-for any query and details contact me through mail: amitpal0728@gmail.com
+For any query and details contact me through mail: amitpal0728@gmail.com
 
